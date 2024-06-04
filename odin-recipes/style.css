@@ -1,0 +1,27 @@
+div{
+  font-size: 32px;
+  color: lightgreen;
+  font-family: sans-serif;
+}
+a{
+  display: block;
+  border: 1px solid #000;
+  color: inherit;
+  padding: 200px;
+  margin: 10px;
+}
+
+h1 {
+  background-color: grey;
+  text-align: center;
+}
+
+.bean {
+  border: 1px solid #000;
+  padding: 40px;
+}
+
+.potato {
+  margin-top: 500px ;
+  padding-left: 550px;
+}
